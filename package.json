@@ -1,0 +1,26 @@
+{
+  "name": "web_page_restaurant",
+  "version": "1.0.0",
+  "description": "Un api maravillosa de un restaurante maravilloso",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VargasSebas21/Backend-NodeJS.git"
+  },
+  "author": "Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VargasSebas21/Backend-NodeJS/issues"
+  },
+  "homepage": "https://github.com/VargasSebas21/Backend-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
